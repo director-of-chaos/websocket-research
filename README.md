@@ -19,3 +19,4 @@ server runs on `localhost:3000`
 ## Other similar work and random notes
 - [Issues with WebSocket reverse proxying allowing to smuggle HTTP requests from 0ang3el](https://github.com/0ang3el/websocket-smuggle)
 - [From hacktricks](https://book.hacktricks.wiki/en/pentesting-web/h2c-smuggling.html)
+- This [tweet](https://x.com/ctbbpodcast/status/1898425984543568370) from critical thinking podcast.
